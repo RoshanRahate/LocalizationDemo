@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  LocalizationDemo
+
+  Created by Roshan on 25/10/21.
+  
+*/
+
+"currentLanguageLabel" = "Current language is English";
+
